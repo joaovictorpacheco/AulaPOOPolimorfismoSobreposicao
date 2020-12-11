@@ -1,4 +1,5 @@
 ﻿using System;
+using Polimorfismo.classes;
 
 namespace Polimorfismo
 {
@@ -6,7 +7,7 @@ namespace Polimorfismo
     {
         static void Main(string[] args)
         {
-            MegaMan jogador = new MegaMan;
+            MegaMan jogador = new MegaMan();
             Console.WriteLine($"Jogador 1 = {jogador.Correr()}");
 
             Zero jogador2 = new Zero();

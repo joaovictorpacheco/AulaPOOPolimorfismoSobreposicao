@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drica\\OneDrive\\Área de Trabalho\\CURSO\\C#\\Polimorfismo\\Polimorfismo.csproj",
+      "projectUniqueName": "C:\\Users\\drica\\OneDrive\\Área de Trabalho\\CURSO\\C#\\AulaPOOPolimorfismoSobreposicao\\Polimorfismo.csproj",
       "projectName": "Polimorfismo",
-      "projectPath": "C:\\Users\\drica\\OneDrive\\Área de Trabalho\\CURSO\\C#\\Polimorfismo\\Polimorfismo.csproj",
+      "projectPath": "C:\\Users\\drica\\OneDrive\\Área de Trabalho\\CURSO\\C#\\AulaPOOPolimorfismoSobreposicao\\Polimorfismo.csproj",
       "packagesPath": "C:\\Users\\drica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drica\\OneDrive\\Área de Trabalho\\CURSO\\C#\\Polimorfismo\\obj\\",
+      "outputPath": "C:\\Users\\drica\\OneDrive\\Área de Trabalho\\CURSO\\C#\\AulaPOOPolimorfismoSobreposicao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\drica\\AppData\\Roaming\\NuGet\\NuGet.Config"
