@@ -5,7 +5,7 @@ namespace Polimorfismo.classes
         private string Buster;
 
         public override string Correr(){
-            return "Correndo em velocidade 2x"
+            return "Correndo em velocidade 2x";
         }
     }
 }
